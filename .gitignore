@@ -2,5 +2,6 @@ node_modules/
 dist/
 logs/
 package.json
+package-lock.json
 babel.config.js
 .eslintrc.js
