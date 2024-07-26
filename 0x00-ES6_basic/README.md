@@ -8,3 +8,4 @@
 - **4-rest-parameter.js**: Defines a function using the rest parameter syntax.
 - **5-spread-operator.js8*: Using spread syntax to concatenate arrays and string characters.
 - **6-string-interpolation.js**: Using template literal.
+- **7-getBudgetObject.js**: Defines a budget object using the shorthand syntax.
