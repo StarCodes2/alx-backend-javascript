@@ -6,3 +6,4 @@
 - **2-arrow.js**: Declearing functions using ES6’s arrow syntax.
 - **3-default-parameter.js**: Defines a function using default parameters.
 - **4-rest-parameter.js**: Defines a function using the rest parameter syntax.
+- **5-spread-operator.js8*: Using spread syntax to concatenate arrays and string characters.
