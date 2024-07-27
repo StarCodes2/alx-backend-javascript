@@ -9,3 +9,7 @@
 - **5-spread-operator.js8*: Using spread syntax to concatenate arrays and string characters.
 - **6-string-interpolation.js**: Using template literal.
 - **7-getBudgetObject.js**: Defines a budget object using the shorthand syntax.
+- **8-getBudgetCurrentYear.js**:  ES6 computed property names.
+- **9-getFullBudget.js**: ES6 method properties.
+- **10-loops.js**: Using ES6’s for...of operator.
+- **11-createEmployeesObject.js**: Define a function named createEmployeesObject that take two arguments and returns an object.
