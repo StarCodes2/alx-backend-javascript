@@ -13,3 +13,4 @@
 - **9-getFullBudget.js**: ES6 method properties.
 - **10-loops.js**: Using ES6’s for...of operator.
 - **11-createEmployeesObject.js**: Define a function named createEmployeesObject that take two arguments and returns an object.
+- **12-createReportObject.js**: Defines a function named createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
