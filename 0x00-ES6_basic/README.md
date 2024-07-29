@@ -15,3 +15,4 @@
 - **11-createEmployeesObject.js**: Define a function named createEmployeesObject that take two arguments and returns an object.
 - **12-createReportObject.js**: Defines a function named createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
 - **100-createIteratorObject.js**: Define a function named createIteratorObject, that will take into argument a report Object created with the previous function createReportObject and returns an iterator of all employees.
+- **101-iterateThroughObject.js**: Defines a function named iterateThroughObject. The function’s parameter reportWithIterator is the return value from createIteratorObject and returns every employee name in a string, separated by |.
