@@ -5,3 +5,4 @@ package.json
 package-lock.json
 babel.config.js
 .eslintrc.js
+!0x04-TypeScript/*
