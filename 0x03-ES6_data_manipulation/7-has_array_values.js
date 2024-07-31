@@ -1,3 +1,6 @@
 export default function hasValuesFromArray(setValue, arr) {
-  return setValue.isSupersetOf(new Set(arr));
+  if (Array.isArray(arr) && arr.length > 0) {
+    return arr.every((value) => setValue.has(value));
+  }
+  return false;
 }
