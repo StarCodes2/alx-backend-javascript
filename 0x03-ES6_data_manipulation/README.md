@@ -5,3 +5,4 @@
 - **2-get_students_by_loc.js**: Defines function getStudentsByLocation that returns an array of objects who are located in a specific city.
 - **3-get_ids_sum.js**: Defiines function getStudentIdsSum that returns the sum of all the student ids.
 - **4-update_grade_by_city.js**: Defines  function updateStudentGradeByCity that returns an array of students for a specific city with their new grade.
+- **5-typed_arrays.js**: Defines a function named createInt8TypedArray that returns a new ArrayBuffer with an Int8 value at a specific position.
