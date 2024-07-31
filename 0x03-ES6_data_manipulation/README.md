@@ -7,3 +7,4 @@
 - **4-update_grade_by_city.js**: Defines  function updateStudentGradeByCity that returns an array of students for a specific city with their new grade.
 - **5-typed_arrays.js**: Defines a function named createInt8TypedArray that returns a new ArrayBuffer with an Int8 value at a specific position.
 - **6-set.js**: Defines a function named setFromArray that returns a Set from an array.
+- **7-has_array_values.js**: Defines a function named hasValuesFromArray that returns a boolean if all the elements in the array exist within the set.
