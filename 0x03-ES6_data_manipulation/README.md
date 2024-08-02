@@ -9,3 +9,4 @@
 - **6-set.js**: Defines a function named setFromArray that returns a Set from an array.
 - **7-has_array_values.js**: Defines a function named hasValuesFromArray that returns a boolean if all the elements in the array exist within the set.
 - **8-clean_set.js**: Defines a function named cleanSet that returns a string of all the set values that start with a specific string (startString).
+- **9-groceries_list.js**: Defines a function named groceriesList that returns a map of groceries with the following items (name, quantity).
