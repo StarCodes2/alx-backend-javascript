@@ -11,3 +11,4 @@
 - **8-clean_set.js**: Defines a function named cleanSet that returns a string of all the set values that start with a specific string (startString).
 - **9-groceries_list.js**: Defines a function named groceriesList that returns a map of groceries with the following items (name, quantity).
 - **10-update_uniq_items.js**: Defines a function named updateUniqueItems that returns an updated map for all items with initial quantity at 1.
+- **100-weak.js**: Using caching
