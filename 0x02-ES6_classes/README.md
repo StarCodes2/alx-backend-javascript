@@ -5,3 +5,5 @@
 - **2-hbtn_course.js**: Holds a class definition called HolbertonCourse.
 - **3-currency.js**: Holds the definition of class Currency.
 - **4-pricing.js**: Holds the definition of class Pricing.
+- **5-building.js**: Holds the definition of class Building.
+- **6-sky_high.js**: Holds the definition of class SkyHighBuilding.
