@@ -7,3 +7,4 @@
 - **4-pricing.js**: Holds the definition of class Pricing.
 - **5-building.js**: Holds the definition of class Building.
 - **6-sky_high.js**: Holds the definition of class SkyHighBuilding.
+- **7-airport.js**: Holds the definition of class Airport.
