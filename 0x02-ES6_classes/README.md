@@ -8,3 +8,4 @@
 - **5-building.js**: Holds the definition of class Building.
 - **6-sky_high.js**: Holds the definition of class SkyHighBuilding.
 - **7-airport.js**: Holds the definition of class Airport.
+- **8-hbtn_class.js**: Holds the definition of class HolbertonClass that uses Symbol.toPrimitive..
