@@ -10,3 +10,4 @@
 - **7-airport.js**: Holds the definition of class Airport.
 - **8-hbtn_class.js**: Holds the definition of class HolbertonClass that uses Symbol.toPrimitive..
 - **9-hoisting.js**: Hoisting in action.
+- **10-car.js**: Holds the definition of class Car that uses Object.assign() to clone its objects.
