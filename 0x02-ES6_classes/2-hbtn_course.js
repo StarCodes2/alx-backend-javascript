@@ -31,10 +31,10 @@ export default class HolbertonCourse {
     return this._students;
   }
 
-  set students(arr) {
-    if (!Array.isArray(arr) || !arr.every((student) => typeof student === 'string')) {
+  set students(value) {
+    if (!Array.isArray(value) || arr.every((student) => typeof student !== 'string')) {
       throw new TypeError('Students must be an array of strings.');
     }
-    this._students = arr;
+    this._students = value;
   }
 }
