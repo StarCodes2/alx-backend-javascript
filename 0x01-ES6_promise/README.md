@@ -4,3 +4,4 @@
 - **1-promise.js**: Defines a function which returns a promise that resolves or rejects based on the argument passed.
 - **2-then.js**: Adding multiple handlers to a promise.
 - **3-all.js**: Resolves only when all promises are resolved.
+- **4-user-promise.js**: Defines a function that resolves a promise with a given value.
