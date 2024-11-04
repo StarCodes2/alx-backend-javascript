@@ -6,9 +6,10 @@ export default function handleProfileSignup(firstName, lastName, fileName) {
     signUpUser(firstName, lastName),
     uploadPhoto(fileName),
   ]).then((results) => {
-    results.map((result) => ({
+    const res = results.map((result) => ({
       status: result.status,
-      value: result.status === 'fulfilled' ? result.value : result.reason.message,
+      value: result.status === 'fulfilled' ? result.value : `Error: ${result.reason.message}`,
     }));
+    return res;
   });
 }
