@@ -8,3 +8,4 @@
 - **5-photo-reject.js**: Defines a function that returns a promise reject.
 - **6-final-user.js**: Defines a function that returns the status of two promises or their resolved value if they both got resolved.
 - **7-load_balancer.js**: Defines a function that returns the value first promise to filful.
+- **8-try.js**: Defines a function that throw as error if denominator is zero.
