@@ -1,4 +1,9 @@
-import handleResponseFromAPI from "./2-then";
+import asyncUploadUser from "./100-await";
 
-const promise = Promise.reject();
-handleResponseFromAPI(promise);
+const test = async () => {
+	    const value = await asyncUploadUser();
+	    console.log(value);
+};
+
+test();
+

@@ -10,3 +10,4 @@
 - **7-load_balancer.js**: Defines a function that returns the value first promise to filful.
 - **8-try.js**: Defines a function that throw as error if denominator is zero.
 - **9-try.js**: Using try and catch.
+- **100-await.js**: Using Async functions.
