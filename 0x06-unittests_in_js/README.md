@@ -8,4 +8,6 @@
 - **2-calcul_chai.js**: Defines the same function as 1-calcul.js.
 - **2-calcul_chai.test.js**: Defines a test for 2-calcul_chai.js.
 - **3-payment.js**: Defines a function that calls a function from the Utils module.
-- **3-payment.test.js**: Defines a test for 3-payment.js.
+- **3-payment.test.js**: Defines a test for 3-payment.js using spy.
+- **4-payment.js**: Defines a function that calls a function from the Utils module.
+- **4-payment.test.js**: Defines a test for 4-payment.js using stub.
