@@ -13,3 +13,5 @@
 - **4-payment.test.js**: Defines a test for 4-payment.js using stub and spy.
 - **5-payment.js**: Defines a function that calls a function from the Utils module.
 - **5-payment.test.js**: Defines a test for 5-payment.js using spy and hooks.
+- **6-payment_token.js**: Defines a function that returns a promise.
+- **6-payment_token.test.js**: Defines a test for 6-payment_token.js.
