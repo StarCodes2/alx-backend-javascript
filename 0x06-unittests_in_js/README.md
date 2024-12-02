@@ -15,3 +15,4 @@
 - **5-payment.test.js**: Defines a test for 5-payment.js using spy and hooks.
 - **6-payment_token.js**: Defines a function that returns a promise.
 - **6-payment_token.test.js**: Defines a test for 6-payment_token.js.
+- **7-skip.test.js**: Defines a suite of test that skip's one test.
