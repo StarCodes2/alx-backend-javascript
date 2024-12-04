@@ -6,7 +6,7 @@ describe('Test a route using request and chai', function () {
     request('http://localhost:7865/cart/65', (err, res, body) => {
       expect(err).to.equal(null);
       expect(res.statusCode).to.equal(200);
-      expect(body).to.equal('Payment methods for cart :65');
+      expect(body).to.equal('Payment methods for cart 65');
       done();
     });
   });
@@ -15,7 +15,7 @@ describe('Test a route using request and chai', function () {
     request('http://localhost:7865/cart/6y', (err, res, body) => {
       expect(err).to.equal(null);
       expect(res.statusCode).to.equal(404);
-      expect(body).to.not.equal('Payment methods for cart :6y');
+      expect(body).to.not.equal('Payment methods for cart 6y');
       done();
     });
   });

@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 app.get('/cart/:id', (req, res) => {
   const id = req.params.id;
   if (!isNaN(id) && Number(id).toString() === id) {
-    return res.send(`Payment methods for cart :${id}`);
+    return res.send(`Payment methods for cart ${id}`);
   }
   return res.sendStatus(404);
 });
